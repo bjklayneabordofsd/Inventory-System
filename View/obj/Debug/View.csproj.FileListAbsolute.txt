@@ -1,0 +1,6 @@
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\View\bin\Debug\View.dll
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\View\bin\Debug\View.pdb
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\View\obj\Debug\View.csproj.AssemblyReference.cache
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\View\obj\Debug\View.dll
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\View\obj\Debug\View.pdb

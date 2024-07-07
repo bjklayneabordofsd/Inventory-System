@@ -1,0 +1,9 @@
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\Repository\bin\Debug\Repository.dll
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\Repository\bin\Debug\Repository.pdb
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\Repository\bin\Debug\Model.dll
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\Repository\bin\Debug\Model.pdb
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\Repository\obj\Debug\Repository.dll
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\Repository\obj\Debug\Repository.pdb

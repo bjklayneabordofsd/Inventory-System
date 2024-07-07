@@ -1,0 +1,6 @@
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\Model\bin\Debug\Model.dll
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\Model\bin\Debug\Model.pdb
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\Model\obj\Debug\Model.dll
+C:\Users\bkabo\Desktop\IT-Inventory Sytem\Model\obj\Debug\Model.pdb
